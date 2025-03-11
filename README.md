@@ -5,7 +5,7 @@
 
 ## Overview
 
-HeartHawk is a real-time heart health companion designed to provide comprehensive cardiovascular assessments using edge computing. Developed in just six hours at the Pulse Overdrive Hackathon, HeartHawk won first place in its track. The project was built by Neil Deo, Thomas Gornet, Minseob Shin, and Neil Rayu.
+HeartHawk is a real-time heart health companion designed to provide comprehensive cardiovascular assessments using edge computing. Developed in just six hours at the Pulse Overdrive Hackathon, HeartHawk won first place in its track. The project was built by Neil Deo, Neil Rayu, and Thomas Gornet.
 
 ## Hackathon & Sponsors
 
